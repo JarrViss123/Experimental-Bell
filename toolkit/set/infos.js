@@ -173,9 +173,9 @@ Example:
 - .delprem
 
  - *#2* => _Dengan tag target_
-- .kurangprem @rifza|1d
-- .addprem @rifza|1d
-- .delprem @rifza|1d
+- .kurangprem @jarr|1d
+- .addprem @jarr|1d
+- .delprem @jarr|1d
  
  - *#2* => _Dengan nomor target_
 - .addprem +62 831-xxxx-xxxx|1d
@@ -190,19 +190,19 @@ Example:
 - w, week, weeks, minggu
 
 *Contoh lain terkait cara menggunakan dengan unit waktu yang berbeda:*
-- .addprem @rifza|30 detik 
+- .addprem @jarr|30 detik 
     ➡️ Menambahkan 30 detik.
-- .addprem @rifza|1 menit 
+- .addprem @jarr|1 menit 
     ➡️ Menambahkan 1 menit.
-- .addprem @rifza|1 jam 15 detik 
+- .addprem @jarr|1 jam 15 detik 
     ➡️ Menambahkan 1 jam 15 detik.
-- .addprem @rifza|2 hari 4 jam 
+- .addprem @jarr|2 hari 4 jam 
     ➡️ Menambahkan 2 hari 4 jam.
-- .addprem @rifza|1 minggu 
+- .addprem @jarr|1 minggu 
     ➡️ Menambahkan 1 minggu.
-- .addprem @rifza|1w 2d 3h 
+- .addprem @jarr|1w 2d 3h 
     ➡️ Menambahkan 1 minggu 2 hari 3 jam.
-- .addprem @rifza|1d 2h 30m 15s 
+- .addprem @jarr|1d 2h 30m 15s 
     ➡️ Menambahkan 1 hari 2 jam 30 menit 15 detik.
 
 ${dark}Semoga panduan ini dibaca dengan teiti agar tidak lagi menanyakan kepada admin terkait cara penggunaanya, terimakasih${dark}

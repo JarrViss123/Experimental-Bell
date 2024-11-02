@@ -1,11 +1,11 @@
 {
   "owner": [
-    "628xxxxxxxxxx@s.whatsapp.net"
+    "6283135198445@s.whatsapp.net"
   ],
-  "botname": "(Experimental) -▪︎ Bella-AI",
-  "botfullname": "Bella Clarissa",
-  "botnickname": "Bella",
-  "ownername": "rifza",
+  "botname": "(Experimental) -▪︎Jarr-AI",
+  "botfullname": "JarrVis",
+  "botnickname": "Jarr",
+  "ownername": "Jarris",
   "cfg": {
     "public": true,
     "ai_interactive": {
@@ -14,7 +14,7 @@
       "energy": false
     },
     "autotyping": false,
-    "autoreadpc": false,
+    "autoreadpc": true,
     "autoreadgc": true,
     "first": {
       "energy": 200,
